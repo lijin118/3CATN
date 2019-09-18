@@ -1,7 +1,7 @@
 # 3CATN
 Cycle-consistent Conditional Adversarial Domain Adaptation Networks, ACM MM 2019
 
-Source codes for "Cycle-consistent Conditional Adversarial Transfer Networks" published on ACM Multmedia 2019.
+Source codes for "Cycle-consistent Conditional Adversarial Transfer Networks" published on ACM Multmedia 2019. The paper can be found at https://arxiv.org/abs/1909.07618
 
 You can directely run the .sh files to get the results.
 
